@@ -35,7 +35,7 @@ function runMrMac() {
 
 window.onload = function() {
   // don't always run mr mac
-  var display_threshold = 0.75;
+  var display_threshold = 0.35;
   var random_number = Math.random();
   if(random_number >= display_threshold) {
     return;
