@@ -1,8 +1,7 @@
 # mr-macintosh
 Mr. Macintosh is a mysterious little man who lives inside your browser. Loving based on <a href="www.folklore.org/StoryView.py?story=Mister_Macintosh.txt">this amazing story</a> from Andy Hertzfeld.
 
-You can install the extension here: https://chrome.google.com/webstore/detail/pgecgnfekjidpcfaocphnkidmjhiffpc/publish-delayed
-
+You can install the extension <a href="https://chrome.google.com/webstore/detail/pgecgnfekjidpcfaocphnkidmjhiffpc/publish-delayed">here</a>. 
 
 What users are saying: 
 
